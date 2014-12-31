@@ -1,0 +1,4 @@
+c:\users\v-hoverz\documents\visual studio 2010\Projects\Tools\bin\Debug\Tools.dll
+c:\users\v-hoverz\documents\visual studio 2010\Projects\Tools\bin\Debug\Tools.pdb
+c:\users\v-hoverz\documents\visual studio 2010\Projects\Tools\obj\Debug\Tools.dll
+c:\users\v-hoverz\documents\visual studio 2010\Projects\Tools\obj\Debug\Tools.pdb
